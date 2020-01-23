@@ -22,13 +22,13 @@ subtitle = ""
   
 [[feature]]
   icon = "class="fab fa-java"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Java"
   description = "100%"  
   
 [[feature]]
   icon = "fab fa-python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "10%"
 
