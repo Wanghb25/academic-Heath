@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "<i class="fab fa-cuttlefish"></i>"
+  icon = "fab fa-cuttlefish"
   icon_pack = "fab"
-  name = "C++"
+  name = "C"
   description = "90%"
   
 [[feature]]
-  icon = "<i class="fab fa-java"></i>"
+  icon = "class="fab fa-java"
   icon_pack = "fas"
   name = "Java"
   description = "100%"  
   
 [[feature]]
-  icon = "<i class="fab fa-python"></i>"
+  icon = "fab fa-python"
   icon_pack = "fas"
   name = "Python"
   description = "10%"
