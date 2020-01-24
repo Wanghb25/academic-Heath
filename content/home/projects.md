@@ -78,9 +78,5 @@ subtitle = ""
    name = "The potato breeding planning information system"
    tag = "Software Development"
    
-[design]
-  columns = "2"
-  view = 3
-  flip_alt_rows = false
 +++
 
