@@ -28,11 +28,12 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Responsible for processing and cleaning data, using machine learning, data mining and statistical techniques to create new, scalable solutions for business problems.
-  * Responsible for analysing and extract relevant information from business data to help automate and optimize key processes.
-  
-  Accomplishments:
-     Work in this position helps me to improve my programming skills and development experience, which enables me to have deeper understanding of the software technology,
-     enhance my expertise, and exercise my teamwork skill in the field.
+
+ *  Participate in the development of PC-side intelligent customer service system Lena, using FastText, TextCNN, Bert and other models for text classification;
+
+ *  Responsible for train algorithm models and adjust model details according to application scenarios.
+ 
+ *  Integrate with C++ / Python and other development languages to assist the person in charge of the algorithm in related work. 
   
   """
 
@@ -47,6 +48,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Responsible for the design and development of software.
+  
   * Responsible for writing related documents.
   """
 

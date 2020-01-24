@@ -12,6 +12,7 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "project"
   
+  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -20,6 +21,14 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
+  
+  [[portfolio]]
+   name = "The potato breeding planning information system"
+   tag = "Software Development"
+   
+   [[portfolio]]
+    name = "Alibaba Cloud TianChi Competition"
+    tag = "Impression Yancheng · Shuchuang Future Big Data Contest-Prediction of Yancheng Automobile License;"
   
   # [[content.filter_button]]
   #   name = "All"
@@ -74,9 +83,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- [[portfolio]]
-   name = "The potato breeding planning information system"
-   tag = "Software Development"
+ 
    
 +++
 
