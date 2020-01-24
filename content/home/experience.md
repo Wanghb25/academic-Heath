@@ -24,7 +24,12 @@ date_format = "Jan 2006"
   location = "Bejing, China"
   date_start = "2018-08"
   date_end = "2019-05"
-  description = """Participate in the development of Lenovo laptop intelligent customer service robot named Lena, using neural networks to achieve corpus classification，utilizing models to improve understanding accuracy, which enrich my experience of developing predictive learning models; What’s more, analyse business data and optimize solutions improve my problem-solving skills."""
+  description = """
+  Participate in the development of Lenovo laptop intelligent customer service robot named Lena, 
+  using neural networks to achieve corpus classification，utilizing models to improve understanding accuracy, 
+  which enrich my experience of developing predictive learning models; 
+  What’s more, analyse business data and optimize solutions improve my problem-solving skills.
+  """
 
 
 
@@ -35,6 +40,10 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2016-08"
   date_end = "2016-12"
-  description = """Work in this position helps me to improve my programming skills and development experience, which enables me to have deeper understanding of the software technology, enhance my expertise, and exercise my teamwork skill in the field."""
+  description = """
+  Work in this position helps me to improve my programming skills and development experience, 
+  which enables me to have deeper understanding of the software technology, 
+  enhance my expertise, and exercise my teamwork skill in the field.
+  """
 
 +++
