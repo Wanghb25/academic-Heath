@@ -29,6 +29,11 @@ date_format = "Jan 2006"
   
   * Responsible for processing and cleaning data, using machine learning, data mining and statistical techniques to create new, scalable solutions for business problems.
   * Responsible for analysing and extract relevant information from business data to help automate and optimize key processes.
+  
+  Accomplishments:
+     Work in this position helps me to improve my programming skills and development experience, which enables me to have deeper understanding of the software technology,
+     enhance my expertise, and exercise my teamwork skill in the field.
+  
   """
 
 [[experience]]
