@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Lenovo Research AI Lab"
   company_url = ""
   location = "Bejing, China"
-  date_start = "2018-08"
-  date_end = "2019-05"
+  date_start = "2018-08-01"
+  date_end = "2019-05-31"
   description = """
   Responsibilities include:
   
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "Qinhuangdao Yan soft Co., Ltd"
   company_url = ""
   location = "China"
-  date_start = "2016-08"
-  date_end = "2016-12"
+  date_start = "2016-08-01"
+  date_end = "2016-12-01"
   description = """
   Responsibilities include:
   
