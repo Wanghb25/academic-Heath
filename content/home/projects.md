@@ -22,21 +22,13 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[portfolio]]
+  [[content.filter_button]]
    name = "The potato breeding planning information system"
    tag = "Software Development"
-   
-   [[portfolio]]
-    name = "Alibaba Cloud TianChi Competition"
-    tag = "Impression Yancheng · Shuchuang Future Big Data Contest-Prediction of Yancheng Automobile License;"
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-  
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+   name = "Alibaba Cloud TianChi Competition"
+   tag = "Impression Yancheng · Shuchuang Future Big Data Contest-Prediction of Yancheng Automobile License"
   
   # [[content.filter_button]]
   #   name = "Other"
