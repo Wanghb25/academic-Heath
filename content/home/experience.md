@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Lenovo Research AI Lab"
   company_url = ""
   location = "Bejing, China"
-  date_start = "2018-08-01"
+  date_start = "2017-01-01"
   date_end = "2019-05-31"
   description = """
   Responsibilities include:
@@ -31,14 +31,12 @@ date_format = "Jan 2006"
   * Responsible for analysing and extract relevant information from business data to help automate and optimize key processes.
   """
 
-
-
 [[experience]]
   title = "Software Developer Engineer Intern"
   company = "Qinhuangdao Yan soft Co., Ltd"
   company_url = ""
   location = "China"
-  date_start = "2016-08-01"
+  date_start = "2016-01-01"
   date_end = "2016-12-01"
   description = """
   Responsibilities include:
