@@ -107,7 +107,7 @@ coordinates = {latitude = "32.724173", longitude = "-97.119407"}
 contact_links = [
   {icon = "facebook", icon_pack = "fab", name = "Facebook Me", link = "http://www.facebook.com/haibo.wang.330467"},
   {icon = "instagram", icon_pack = "fab", name = "Ins Me", link = "https://www.instagram.com/hyb0.wang/"},
-  {icon = "envelope", icon_pack = "far", name = "Email Me", link = "faithwhb0014@gmail.com"},
+  #{icon = "envelope", icon_pack = "far", name = "Email Me", link = "faithwhb0014@gmail.com"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

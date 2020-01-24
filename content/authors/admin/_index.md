@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'faithwhb0014@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab fa-facebook-square
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: faithwhb0014@gmail.com  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
+  icon_pack: fab
+  link: http://www.facebook.com/haibo.wang.330467
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/hyb0.wang
 - icon: github
   icon_pack: fab
   link: https://github.com/Wanghb25
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Haibo Wang is a talented student from The University of Texas at Arlington majored in Computer Science. Having good understanding on both software engineering and algorithm, he has great interest in machine learning as well as artificial intelligence. He also has experience on mobile development such as Android, frontend development and data science experience.
+He participated in the development of the Lenovo Lena (https://lena.lenovo.com/lena), which is a
+Lenovo Support Virtual Assistant. Familiar with Java, C++, JavaScript as well as python, he has the ability to be a great team member and write efficient code. Also, he used to be an algorithm engineer intern in Lenovo for ten months.
