@@ -74,7 +74,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- [[content.filter_button]]
+ [[portfolio]]
    name = "The potato breeding planning information system"
    tag = "Software Development"
    
