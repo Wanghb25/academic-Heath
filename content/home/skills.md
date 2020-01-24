@@ -21,8 +21,8 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "java"
+  icon_pack = "fab"
   name = "Java"
   description = "100%"  
   

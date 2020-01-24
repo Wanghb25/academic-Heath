@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-08"
   date_end = "2019-05"
-  description = """ Participate in the development of Lenovo laptop intelligent customer service robot named Lena, using neural networks to achieve corpus classification, utilizing models to improve understanding accuracy, which enrich my experience of developing predictive learning models; What’s more, analyse business data and optimize solutions improve my problem-solving skills."""
-  
+  description = """ 
   Responsibilities include:
   
   * Responsible for processing and cleaning data, using machine learning, data mining and statistical techniques to create new, scalable solutions for business problems.
