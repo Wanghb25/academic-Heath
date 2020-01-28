@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link = "faithwhb0014@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link : "faithwhb0014@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: facebook
   icon_pack: fab
   link: http://www.facebook.com/haibo.wang.330467
