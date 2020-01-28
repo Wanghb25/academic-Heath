@@ -1,4 +1,5 @@
----
++++
+data = 2018-01-01T00:00:00
 title = "Impression Yancheng · Shuchuang Future Big Data Contest-Prediction of Yancheng Automobile License;"
 summary = "Alibaba Cloud TianChi Competition."
 tags = ["Deep Learning"]
@@ -17,6 +18,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
----
+
++++
 Data preprocessing, using xgboost model to solve the problem.
