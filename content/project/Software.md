@@ -27,5 +27,4 @@ math = false
 #   Otherwise, set `slides = ""`.
 
 +++
-• Responsible for designing the architecture of the potato breeding planning information system.
-• Responsible for achieving planting planning functions, writing a detailed development  document, ultimately, completing based on frontend development work.
+• Responsible for designing the architecture of the potato breeding planning information system, and achieving planting planning functions, writing a detailed development  document, ultimately, completing based on frontend development work.

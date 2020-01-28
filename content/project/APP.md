@@ -27,5 +27,4 @@ math = false
 #   Otherwise, set `slides = ""`.
 
 +++
-• Responsible for the design and development of software.
-• Responsible for writing related documents.
+• Responsible for the pattern design, software development  and writing related documents.
