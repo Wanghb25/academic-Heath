@@ -7,7 +7,7 @@ summary = "I have completed the potato breeding planning information system by u
 
 image_preview = ""
 
-tags = ["Software Development"]
+tags = ["Software"]
 
 exterma_link = ""
 
