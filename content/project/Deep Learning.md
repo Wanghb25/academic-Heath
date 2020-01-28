@@ -1,7 +1,7 @@
 +++
 data = 2018-01-01T00:00:00
 
-title = "Impression Yancheng · Shuchuang Future Big Data Contest-Prediction of Yancheng Automobile License;"
+title = "Impression Yancheng · Shuchuang Future Big Data Contest-Prediction of Yancheng Automobile License"
 
 summary = "Alibaba Cloud TianChi Competition."
 
