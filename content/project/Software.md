@@ -3,7 +3,7 @@ data = 2018-08-01T00:00:00
 
 title = "The potato breeding planning information system"
 
-summary = "I have completed the potato breeding planning information system by using Vue frontend frame, and JavaScipt software development language. What’s more, according this project, I am more familiar with the software development process."
+summary = "Completing the potato breeding planning information system by using Vue frontend frame, and JavaScipt software development language. What’s more, according this project, I am more familiar with the software development process."
 
 image_preview = ""
 
@@ -27,4 +27,5 @@ math = false
 #   Otherwise, set `slides = ""`.
 
 +++
-Data preprocessing, using xgboost model to solve the problem.
+• Responsible for designing the architecture of the potato breeding planning information system.
+• Responsible for achieving planting planning functions, writing a detailed development  document, ultimately, completing based on frontend development work.

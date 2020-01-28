@@ -3,7 +3,7 @@ data = 2017-01-01T00:00:00
 
 title = "Archives management system"
 
-summary = "I have completed the potato breeding planning information system by using Vue frontend frame, and JavaScipt software development language. What’s more, according this project, I am more familiar with the software development process."
+summary = "Archives management system is an APP, which is used to manage archives of people lived in QinHuangdao city."
 
 image_preview = ""
 
@@ -27,4 +27,5 @@ math = false
 #   Otherwise, set `slides = ""`.
 
 +++
-Data preprocessing, using xgboost model to solve the problem.
+• Responsible for the design and development of software.
+• Responsible for writing related documents.
