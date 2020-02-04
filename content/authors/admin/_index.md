@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Haibo Wang is a talented student from The University of Texas at Arlington majored in Computer Science. Having good understanding on both software engineering and algorithm, he has great interest in machine learning as well as artificial intelligence. He also has experience on mobile development such as Android, frontend development and data science experience.
-He participated in the development of the Lenovo Lena (https://lena.lenovo.com/lena), which is a
-Lenovo Support Virtual Assistant. Familiar with Java, C++, JavaScript as well as python, he has the ability to be a great team member and write efficient code. Also, he used to be an algorithm engineer intern in Lenovo for ten months.
+Haibo Wang (https://www.linkedin.com/in/heath-wang-5a9345199/) is a talented student from The University of Texas at Arlington majored in Computer Science. Having good understanding on both software engineering and algorithm, he has great interest in machine learning as well as artificial intelligence. He also has experience on mobile development such as Android, frontend development and data science experience.
+He participated in the development of the Lenovo Lena (https://lena.lenovo.com/lena), which is a Lenovo Support Virtual Assistant. Familiar with Java, C++, JavaScript as well as python, he has the ability to be a great team member and write efficient code. Also, he used to be an algorithm engineer intern in Lenovo for ten months.
