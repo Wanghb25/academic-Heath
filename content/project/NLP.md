@@ -20,6 +20,13 @@ math = false
 #url_slides: ""
 #url_video: ""
 
+notebook:
+- icon: file
+  icon_pack: fas
+  link: NLP with Disaster Tweets.ipynb
+  
+ submission = "https://www.kaggle.com/c/nlp-getting-started/submissions"
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
