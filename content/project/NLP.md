@@ -16,7 +16,7 @@ math = false
 # Optional external URL for project (replaces project detail page).
 
 #url_code: ""
-url_pdf: "/Users/faith/Documents/GitHub/academic-Heath/static/NLP with Disaster Tweets.ipynb"
+#url_pdf: "/Users/faith/Documents/GitHub/academic-Heath/static/NLP with Disaster Tweets.ipynb"
 #url_slides: ""
 #url_video: ""
 
