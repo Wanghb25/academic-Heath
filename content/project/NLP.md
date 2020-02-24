@@ -25,7 +25,7 @@ notebook:
   icon_pack: fas
   link: NLP with Disaster Tweets.ipynb
   
- submission = "https://www.kaggle.com/c/nlp-getting-started/submissions"
+ 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -34,4 +34,4 @@ notebook:
 #   Otherwise, set `slides = ""`.
 
 +++
-• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix.
+• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission : https://www.kaggle.com/c/nlp-getting-started/submissions.
