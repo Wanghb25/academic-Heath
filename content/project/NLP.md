@@ -9,7 +9,7 @@ image_preview = ""
 
 tags = ["Deep Learning"]
 
-exterma_link = ""
+exterma_link = "https://www.kaggle.com/c/nlp-getting-started/submissions"
 
 math = false
 
@@ -20,11 +20,6 @@ url_pdf: "/Users/faith/Documents/GitHub/academic-Heath/static/NLP with Disaster 
 #url_slides: ""
 #url_video: ""
 
-<!--notebook:-->
-<!--- icon: file-->
-<!--  icon_pack: fas-->
-<!--  link: NLP with Disaster Tweets.ipynb-->
-<!--  -->
  
 
 # Slides (optional).
