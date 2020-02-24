@@ -34,4 +34,4 @@ notebook:
 #   Otherwise, set `slides = ""`.
 
 +++
-• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission : https://www.kaggle.com/c/nlp-getting-started/submissions.
+• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission(https://www.kaggle.com/c/nlp-getting-started/submissions).
