@@ -9,7 +9,7 @@ image_preview = ""
 
 tags = ["Deep Learning"]
 
-# exterma_link = "https://www.kaggle.com/c/nlp-getting-started/submissions"
+# exterma_link = "https://www.kaggle.com/c/nlp-getting-started"
 
 math = false
 
