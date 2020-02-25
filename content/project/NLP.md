@@ -5,7 +5,7 @@ title = "Real or Not? NLP with Disaster Tweets"
 
 summary = "Kaggle: Predict which Tweets are about real disasters and which ones are not"
 
-image_preview = ""
+#image_preview = ""
 
 tags = ["Deep Learning"]
 
@@ -17,9 +17,8 @@ math = false
 # code = "NLP_with_Disaster_Tweets.ipynb"
 url_slides ="NLP_with_Disaster_Tweets.ipynb"
 # video ="NLP_with_Disaster_Tweets.ipynb"
-header:
- caption: "My Submission"
- image: "/Users/faith/Documents/GitHub/academic-Heath/static/img/rank.png"
+
+image_preview="/Users/faith/Documents/GitHub/academic-Heath/static/img/rank.png"
  
 
 # Slides (optional).
