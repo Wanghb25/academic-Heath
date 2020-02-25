@@ -5,8 +5,8 @@ title = "Real or Not? NLP with Disaster Tweets"
 
 summary = "Kaggle: Predict which Tweets are about real disasters and which ones are not"
 
-image_preview = "rank.png"
-#image="rank.png"
+image_preview = "rank.jpg"
+image="rank.jpg"
 
 tags = ["Deep Learning"]
 
