@@ -27,4 +27,4 @@ url_slides ="NLP_with_Disaster_Tweets.ipynb"
 #   Otherwise, set `slides = ""`.
 slides = ""
 +++
-# • Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission(https://www.kaggle.com/c/nlp-getting-started/submissions).
+• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission(https://www.kaggle.com/c/nlp-getting-started/submissions).
