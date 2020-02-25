@@ -18,7 +18,7 @@ math = false
 # code = "NLP_with_Disaster_Tweets.ipynb"
 url_slides ="NLP_with_Disaster_Tweets.ipynb"
 # video ="NLP_with_Disaster_Tweets.ipynb"
-image = "rank.jpg"
+url_pdf = "rank.jpg"
 
  
 
@@ -28,5 +28,6 @@ image = "rank.jpg"
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
+pdf = ""
 +++
 • Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. The notebook in slide link. (Kaggle: https://www.kaggle.com/c/nlp-getting-started/ ).
