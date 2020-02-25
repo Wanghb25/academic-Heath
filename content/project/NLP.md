@@ -14,9 +14,9 @@ tags = ["Deep Learning"]
 math = false
 
 # Optional external URL for project (replaces project detail page).
-code = "NLP_with_Disaster_Tweets.ipynb"
-slides ="NLP_with_Disaster_Tweets.ipynb"
-video ="NLP_with_Disaster_Tweets.ipynb"
+# code = "NLP_with_Disaster_Tweets.ipynb"
+url_slides ="NLP_with_Disaster_Tweets.ipynb"
+# video ="NLP_with_Disaster_Tweets.ipynb"
 
  
 
@@ -25,6 +25,6 @@ video ="NLP_with_Disaster_Tweets.ipynb"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-
+slides = ""
 +++
 # • Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission(https://www.kaggle.com/c/nlp-getting-started/submissions).
