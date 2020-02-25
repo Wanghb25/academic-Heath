@@ -14,9 +14,9 @@ exterma_link = "https://www.kaggle.com/c/nlp-getting-started/submissions"
 math = false
 
 # Optional external URL for project (replaces project detail page).
-#url_code: ""
-#url_slides: ""
-#url_video: ""
+url_code: "NLP_with_Disaster_Tweets.ipynb"
+url_slides: "NLP_with_Disaster_Tweets.ipynb"
+url_video: "NLP_with_Disaster_Tweets.ipynb"
 
  
 
