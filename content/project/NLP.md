@@ -14,9 +14,9 @@
 # math = false
 
 # Optional external URL for project (replaces project detail page).
-code: "NLP_with_Disaster_Tweets.ipynb"
-slides: "NLP_with_Disaster_Tweets.ipynb"
-video: "NLP_with_Disaster_Tweets.ipynb"
+code = "NLP_with_Disaster_Tweets.ipynb"
+slides ="NLP_with_Disaster_Tweets.ipynb"
+video ="NLP_with_Disaster_Tweets.ipynb"
 
  
 
