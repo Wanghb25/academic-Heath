@@ -16,9 +16,9 @@ math = false
 
 # Optional external URL for project (replaces project detail page).
 # code = "NLP_with_Disaster_Tweets.ipynb"
-url_slides ="NLP_with_Disaster_Tweets.ipynb"
+url_submission ="rank.jpg"
 # video ="NLP_with_Disaster_Tweets.ipynb"
-url_pdf = "rank.jpg"
+url_jupyter = "NLP_with_Disaster_Tweets.ipynb"
 
  
 
@@ -27,7 +27,7 @@ url_pdf = "rank.jpg"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
-pdf = ""
+submission = ""
+jupyter = ""
 +++
 • Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. The notebook in slide link. (Kaggle: https://www.kaggle.com/c/nlp-getting-started/ ).
