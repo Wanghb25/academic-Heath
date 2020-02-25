@@ -15,12 +15,14 @@ math = false
 
 # Optional external URL for project (replaces project detail page).
 
+
+social:
 #url_code: ""
 #url_slides: ""
 #url_video: ""
-- icon: file
-icon_pack: fas
-link: NLP_with_Disaster_Tweets.ipynb
+-icon: file
+ icon_pack: fas
+ link: NLP_with_Disaster_Tweets.ipynb
  
 
 # Slides (optional).
