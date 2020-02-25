@@ -18,7 +18,7 @@ math = false
 # code = "NLP_with_Disaster_Tweets.ipynb"
 url_slides ="NLP_with_Disaster_Tweets.ipynb"
 # video ="NLP_with_Disaster_Tweets.ipynb"
-# image="rank.jpg"
+ image="rank.jpg"
 
  
 
