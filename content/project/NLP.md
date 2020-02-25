@@ -1,17 +1,17 @@
 +++
-# data = 2020-02-01T00:00:00
+data = 2020-02-01T00:00:00
 
-# title = "Real or Not? NLP with Disaster Tweets"
+title = "Real or Not? NLP with Disaster Tweets"
 
-# summary = "Kaggle: Predict which Tweets are about real disasters and which ones are not"
+summary = "Kaggle: Predict which Tweets are about real disasters and which ones are not"
 
-# image_preview = ""
+image_preview = ""
 
-# tags = ["Deep Learning"]
+tags = ["Deep Learning"]
 
 # exterma_link = "https://www.kaggle.com/c/nlp-getting-started/submissions"
 
-# math = false
+math = false
 
 # Optional external URL for project (replaces project detail page).
 code = "NLP_with_Disaster_Tweets.ipynb"
