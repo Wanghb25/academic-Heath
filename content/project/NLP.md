@@ -17,7 +17,9 @@ math = false
 # code = "NLP_with_Disaster_Tweets.ipynb"
 url_slides ="NLP_with_Disaster_Tweets.ipynb"
 # video ="NLP_with_Disaster_Tweets.ipynb"
-
+header:
+ caption: "My Submission"
+ image: "/Users/faith/Documents/GitHub/academic-Heath/static/img/rank.png"
  
 
 # Slides (optional).
@@ -27,4 +29,4 @@ url_slides ="NLP_with_Disaster_Tweets.ipynb"
 #   Otherwise, set `slides = ""`.
 slides = ""
 +++
-• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. Submission(https://www.kaggle.com/c/nlp-getting-started/submissions).
+• Data preprocessing, graphical display of information distribution, using Glove model to generate embedding matrix. The notebook in slide link. (Kaggle: https://www.kaggle.com/c/nlp-getting-started).
