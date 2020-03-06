@@ -4,9 +4,9 @@ title: Real or Not? NLP with Disaster Tweets（Assignment1）
 ---
 # Real or Not? NLP with Disaster Tweets   
 Predict which Tweets are about real disasters and which ones are not
+ (Kaggle: https://www.kaggle.com/c/nlp-getting-started/)
 
-
-## Python Tool Packages
+### Python Tool Packages
 
 
 ```python
