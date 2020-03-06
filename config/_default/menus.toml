@@ -18,6 +18,11 @@
   url = "#projects"
   weight = 30
 
+[[main]]
+  name = "Assignment"
+  url = "#posts"
+  weight = 30
+
 
 [[main]]
   name = "Contact"
