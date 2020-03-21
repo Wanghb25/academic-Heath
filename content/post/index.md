@@ -1,6 +1,6 @@
 ---
 date: 2020-3-02
-title: Real or Not? NLP with Disaster Tweets（Assignment1）
+title: Real or Not? NLP with Disaster Tweets
 ---
 # Real or Not? NLP with Disaster Tweets   
 Predict which Tweets are about real disasters and which ones are not
