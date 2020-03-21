@@ -51,11 +51,11 @@ plt.show()
 ```
 
 
-![png](./HaiboWang_01_1_0.png)
+![png](./Wang_1_0.png)
 
 
 
-![png](./HaiboWang_01_1_1.png)
+![png](./Wang_1_1.png)
 
 
 ### Polynomial regression (degree = 0, 1, 3, 9)
@@ -84,19 +84,19 @@ for deg in degree:
 ```
 
 
-![png](./HaiboWang_01_2_0.png)
+![png](./Wang_2_0.png)
 
 
 
-![png](./HaiboWang_01_2_1.png)
+![png](./Wang_2_1.png)
 
 
 
-![png](./HaiboWang_01_2_2.png)
+![png](./Wang_2_2.png)
 
 
 
-![png](./HaiboWang_01_2_3.png)
+![png](./Wang_2_3.png)
 
 
 ### mean_squared_error
@@ -120,6 +120,7 @@ for deg in degrees:
     rmses.append(poly_rmse)
         
 fig = plt.figure()
+ax = fig.add_subplot(111)
 ax.plot(degrees, rmses)
 ax.set_yscale('log')
 ax.set_xlabel('Degree')
@@ -129,7 +130,7 @@ plt.show()
 ```
 
 
-![png](./HaiboWang_01_3_0.png)
+![png](./Wang_3_0.png)
 
 ### generate 100 more data and fit 9th order model 
 
@@ -153,7 +154,7 @@ plt.show()
 ```
 
 
-![png](./HaiboWang_01_4_0.png)
+![png](./Wang_4_0.png)
 
 ### Regularize
 
@@ -182,7 +183,7 @@ def plot_model(model):
     plt.show()
 
 ```
-
+### for lambda : 1, 1/10, 1/100, 1/1000, 1/10000, 1/100000
 
 ```python
 ridge1_reg = RidgeRegression(9, 1/100000)
@@ -194,10 +195,10 @@ plot_model(ridge1_reg)
 ```
 
 
-![png](./HaiboWang_01_6_0.png)
+![png](./Wang_6_0.png)
 
 
-### for lambda : 1, 1/10, 1/100, 1/1000, 1/10000, 1/100000
+
 ```python
 ridge2_reg = RidgeRegression(9, 1/10000)
 ridge2_reg.fit(X_train, Y_train)
@@ -209,7 +210,7 @@ plot_model(ridge2_reg)
 ```
 
 
-![png](./HaiboWang_01_7_0.png)
+![png](./Wang_7_0.png)
 
 
 
@@ -223,7 +224,7 @@ plot_model(ridge3_reg)
 ```
 
 
-![png](./HaiboWang_01_8_0.png)
+![png](./Wang_8_0.png)
 
 
 
@@ -237,7 +238,7 @@ plot_model(ridge4_reg)
 ```
 
 
-![png](./HaiboWang_01_9_0.png)
+![png](./Wang_9_0.png)
 
 
 
@@ -251,7 +252,7 @@ plot_model(ridge5_reg)
 ```
 
 
-![png](./HaiboWang_01_10_0.png)
+![png](./Wang_10_0.png)
 
 
 
@@ -265,5 +266,5 @@ plot_model(ridge6_reg)
 ```
 
 
-![png](./HaiboWang_01_11_0.png)
+![png](./Wang_11_0.png)
 
