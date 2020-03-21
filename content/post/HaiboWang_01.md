@@ -6,6 +6,7 @@ title: Assignment1
 
 ### Python Tool Packages
 
+
 ```python
 import math
 from math import pi
@@ -18,8 +19,8 @@ from sklearn.linear_model import LinearRegression,Perceptron
 from sklearn.metrics import mean_squared_error,r2_score
 from sklearn.model_selection import train_test_split
 ```
-
 ### generate samples
+
 ```python
 #generate 10 data
 X = []
@@ -57,7 +58,7 @@ plt.show()
 ![png](./HaiboWang_01_1_1.png)
 
 
-
+### Polynomial regression (degree = 0, 1, 3, 9)
 ```python
 #10 data
 x = np.linspace(0, 1, 100)
@@ -98,7 +99,7 @@ for deg in degree:
 ![png](./HaiboWang_01_2_3.png)
 
 
-### Polynomial regression (degree = 0, 1, 3, 9)
+### mean_squared_error
 ```python
 rmses = []
 degrees = np.arange(1, 10)
@@ -119,7 +120,6 @@ for deg in degrees:
     rmses.append(poly_rmse)
         
 fig = plt.figure()
-ax = fig.add_subplot(111)
 ax.plot(degrees, rmses)
 ax.set_yscale('log')
 ax.set_xlabel('Degree')
@@ -131,8 +131,8 @@ plt.show()
 
 ![png](./HaiboWang_01_3_0.png)
 
-
 ### generate 100 more data and fit 9th order model 
+
 ```python
 # 100 data
 poly_100 = PolynomialFeatures(degree=9)
@@ -155,8 +155,8 @@ plt.show()
 
 ![png](./HaiboWang_01_4_0.png)
 
+### Regularize
 
-### Regression
 ```python
 #regularize
 from sklearn.linear_model import Ridge
@@ -183,7 +183,7 @@ def plot_model(model):
 
 ```
 
-### for lambda : 1, 1/10, 1/100, 1/1000, 1/10000, 1/100000
+
 ```python
 ridge1_reg = RidgeRegression(9, 1/100000)
 ridge1_reg.fit(X_train, Y_train)
@@ -197,7 +197,7 @@ plot_model(ridge1_reg)
 ![png](./HaiboWang_01_6_0.png)
 
 
-
+### for lambda : 1, 1/10, 1/100, 1/1000, 1/10000, 1/100000
 ```python
 ridge2_reg = RidgeRegression(9, 1/10000)
 ridge2_reg.fit(X_train, Y_train)
