@@ -1,8 +1,8 @@
 ---
 date: 2020-04-02
-title:  Assignment 2
+title:  Assignment2
 ---
-# Implement KNN without any library ( IRIS dataset. https://archive.ics.uci.edu/ml/datasets/Iris )
+# Implement KNN (IRIS dataset)
 
 
 ```python
