@@ -2,8 +2,7 @@
 date: 2020-04-02
 title:  Assignment2
 ---
-# Implement KNN (IRIS dataset)
-
+# Implement KNN (IRIS dataset).
 
 ```python
 import random
@@ -392,7 +391,7 @@ plt.show()
 
 ### The best k = 5
 ```python
-# optimal hyperparameter: k = 5
+# optimal hyperparameter: best k = 5
 # euclidean distance
 correct_euc5 = 0
 accuracy_euc5 = 0
