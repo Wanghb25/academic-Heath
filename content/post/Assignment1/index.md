@@ -1,5 +1,5 @@
 ---
-date: 2020-3-16
+date: 2020-03-16
 title: Assignment1
 ---
 # Polynomial regression.
