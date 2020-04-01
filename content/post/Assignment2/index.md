@@ -1,14 +1,17 @@
+---
+date: 2020-04-02
+title:  Assignment 2
+---
+Implement KNN without any library ( IRIS dataset. https://archive.ics.uci.edu/ml/datasets/Iris )
 
 
 ```python
-# import numpy as np
 import random
 import operator
 import math
-from collections import Counter
 ```
 
-
+### Define functions
 ```python
 # split data
 def split(data,ratio=0.2):
@@ -99,7 +102,7 @@ def voteResult(candidate):
 
 ```
 
-
+### Load data
 ```python
 file = 'iris.data'
 f = open(file, 'r')
@@ -108,7 +111,7 @@ lines = f.readlines()
 testSet,devSet = split(lines)
 ```
 
-
+### Three distance metrics for k = 1
 ```python
 # k = 1
 # euclidean distance
@@ -150,7 +153,7 @@ print(str(accuracy_cos1) + '%')
     96.66666666666667%
 
 
-
+### Three distance metrics for k = 3
 ```python
 # k = 3
 # euclidean distance
@@ -192,7 +195,7 @@ print(str(accuracy_cos3) + '%')
     100.0%
 
 
-
+### Three distance metrics for k = 5
 ```python
 # k = 5
 # euclidean distance
@@ -234,7 +237,7 @@ print(str(accuracy_cos5) + '%')
     100.0%
 
 
-
+### Three distance metrics for k = 7
 ```python
 # k = 7
 # euclidean distance
@@ -276,7 +279,7 @@ print(str(accuracy_cos7) + '%')
     100.0%
 
 
-
+### Three distance metrics for k = 9
 ```python
 # k = 9
 # euclidean distance
@@ -318,7 +321,7 @@ print(str(accuracy_cos9) + '%')
     100.0%
 
 
-
+### Three distance metrics for k = 11
 ```python
 # k = 11
 # euclidean distance
@@ -367,7 +370,7 @@ nor = [accuracy_nor1, accuracy_nor3, accuracy_nor5, accuracy_nor7, accuracy_nor9
 cos = [accuracy_cos1, accuracy_cos3, accuracy_cos5, accuracy_cos7, accuracy_cos9, accuracy_cos11]
 ```
 
-
+### Bar charts for accuracy
 ```python
 import matplotlib.pyplot as plt
 
@@ -387,7 +390,7 @@ plt.show()
 ![png](./index_10_0.png)
 
 
-
+### The best k = 5
 ```python
 # optimal hyperparameter: k = 5
 # euclidean distance

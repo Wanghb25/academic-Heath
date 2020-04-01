@@ -1,5 +1,5 @@
 ---
-date: 2020-3-02
+date: 2020-03-02
 title: Real or Not? NLP with Disaster Tweets
 ---
 # Real or Not? NLP with Disaster Tweets   
