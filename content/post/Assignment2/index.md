@@ -2,6 +2,7 @@
 date: 2020-03-31
 title:  Assignment 2
 ---
+{{% staticref "files/Assignment2.ipynb" "newtab" %}}Download my files{{% /staticref %}}
 # Implement KNN ( IRIS dataset: https://archive.ics.uci.edu/ml/datasets/Iris ).
 
 ### python
