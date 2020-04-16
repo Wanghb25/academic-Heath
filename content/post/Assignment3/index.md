@@ -1,5 +1,5 @@
 ---
-date: 2020-04-15
+date: 2020-04-14
 title:  Assignment 3
 ---
 {{% staticref "files/Wang_03.ipynb" "newtab" %}}Download the notebook{{% /staticref %}}
@@ -2305,7 +2305,7 @@ dict_vocab
 
 
 
-
+### Calculate the probability
 ```python
 count_the = 0
 count_the_pos = 0
@@ -2331,7 +2331,7 @@ for index, row in train_set[12500:25000].iterrows():
 p_the_pos = count_the_pos / len(train_pos)
 print('P[“the” | Positive]  = ' + str(p_the_pos))
 ```
-### Calculate the probability
+
 
     P[the] = 0.99084
     P[“the” | Positive]  = 0.98952
