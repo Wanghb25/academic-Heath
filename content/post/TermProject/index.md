@@ -11,7 +11,7 @@ title:  Term Project
 
 ## Data: https://www.kaggle.com/jvanelteren/boardgamegeek-reviews
 ## Youtube Video: https://youtu.be/9Zj7hmtUeFI
-
+## Github: https://github.com/Wanghb25/PredictRating.git
 
 ```python
 import pandas as pd 
