@@ -2,8 +2,9 @@
 date: 2020-05-10
 title:  Term Project
 ---
-{{% staticref "files/PredictRating.ipynb" "newtab" %}}Download the notebook{{% /staticref %}}
-{{% staticref "files/Term Project.pdf" "newtab" %}}Download the PDF{{% /staticref %}}
+{{% staticref "files/PredictRating.ipynb" "newtab" %}}Download the notebook, {{% /staticref %}}
+
+{{% staticref "files/Term Project.pdf" "newtab" %}}  Download the PDF{{% /staticref %}}
 # Predicting the Rating through Comment
 ## Data Mining Term Project
 ## Haibo Wang
@@ -14,8 +15,7 @@ title:  Term Project
 ## Github: https://github.com/Wanghb25/PredictRating.git
 
 ```python
-import pandas as pd 
-#from pandas import Series, DataFrame 
+import pandas as pd  
 import numpy as np 
 import matplotlib.pyplot as plt 
 import matplotlib as mpl 
@@ -30,7 +30,6 @@ from sklearn.metrics import mean_absolute_error #MAE
 from sklearn.metrics import r2_score
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
-#from keras.preprocessing.sequence import pad_sequences
 ```
 
 
